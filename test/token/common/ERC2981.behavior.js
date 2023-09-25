@@ -167,3 +167,4 @@ function shouldBehaveLikeERC2981() {
 module.exports = {
   shouldBehaveLikeERC2981,
 };
+import "@openzeppelin/contracts/access/Ownable.sol";
